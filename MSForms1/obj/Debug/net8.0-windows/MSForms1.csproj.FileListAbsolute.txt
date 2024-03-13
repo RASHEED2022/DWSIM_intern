@@ -1,0 +1,17 @@
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\MSForms1\MSForms1\bin\Debug\net8.0-windows\MSForms1.exe
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\MSForms1\MSForms1\bin\Debug\net8.0-windows\MSForms1.deps.json
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\MSForms1\MSForms1\bin\Debug\net8.0-windows\MSForms1.runtimeconfig.json
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\MSForms1\MSForms1\bin\Debug\net8.0-windows\MSForms1.dll
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\MSForms1\MSForms1\bin\Debug\net8.0-windows\MSForms1.pdb
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\MSForms1\MSForms1\obj\Debug\net8.0-windows\MSForms1.Form1.resources
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\MSForms1\MSForms1\obj\Debug\net8.0-windows\MSForms1.csproj.GenerateResource.cache
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\MSForms1\MSForms1\obj\Debug\net8.0-windows\MSForms1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\MSForms1\MSForms1\obj\Debug\net8.0-windows\MSForms1.AssemblyInfoInputs.cache
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\MSForms1\MSForms1\obj\Debug\net8.0-windows\MSForms1.AssemblyInfo.cs
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\MSForms1\MSForms1\obj\Debug\net8.0-windows\MSForms1.csproj.CoreCompileInputs.cache
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\MSForms1\MSForms1\obj\Debug\net8.0-windows\MSForms1.dll
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\MSForms1\MSForms1\obj\Debug\net8.0-windows\refint\MSForms1.dll
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\MSForms1\MSForms1\obj\Debug\net8.0-windows\MSForms1.pdb
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\MSForms1\MSForms1\obj\Debug\net8.0-windows\MSForms1.genruntimeconfig.cache
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\MSForms1\MSForms1\obj\Debug\net8.0-windows\ref\MSForms1.dll
+C:\Users\thahs\OneDrive\Documents\rasheed\extra\VS intern project\MSForms1\MSForms1\obj\Debug\net8.0-windows\MSForms1.Form2.resources
